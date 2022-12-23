@@ -1,0 +1,624 @@
+  1/362 ./parser-output/media/1590809312636866561-FhOwndPWYAA4bUQ.jpg: SUCCESS. New version is 100% larger in bytes and  92% larger in pixels. 0.2MB downloaded
+  2/362 ./parser-output/media/1590738339711266816-FhNwFisXEAIZKFB.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhNwFisXEAIZKFB.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  3/362 ./parser-output/media/1590716978775269376-FhNco1KXoAIMkmM.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhNco1KXoAIMkmM.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  4/362 ./parser-output/media/1590456335962968065-FhJvmyZWQAAWjxh.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhJvmyZWQAAWjxh.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  5/362 ./parser-output/media/1590435884322521088-FhJdAVkWAAAi6XM.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhJdAVkWAAAi6XM.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  6/362 ./parser-output/media/1590424387672756224-FhJSjGAXoAIe580.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhJSjGAXoAIe580.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  7/362 ./parser-output/media/1590418094320664576-FhJM01TXoAEpWq4.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhJM01TXoAEpWq4.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  8/362 ./parser-output/media/1590390479496978433-FhIzsLLWYAEsL_a.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhIzsLLWYAEsL_a.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  9/362 ./parser-output/media/1590385337519734784-FhIl_JVWQAEX2XU.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 10/362 ./parser-output/media/1590082751092359168-FhEby2LX0AQdUJe.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhEby2LX0AQdUJe.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 11/362 ./parser-output/media/1590025261260877824-FhDniC2XgAMY3Ni.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhDniC2XgAMY3Ni.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 12/362 ./parser-output/media/1590025261260877824-FhDniUQX0AMQIMw.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhDniUQX0AMQIMw.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 13/362 ./parser-output/media/1590025261260877824-FhDninpWQAA-XUH.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhDninpWQAA-XUH.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 14/362 ./parser-output/media/1590025261260877824-FhDni5xXwAQEIcZ.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhDni5xXwAQEIcZ.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 15/362 ./parser-output/media/1584202739978235906-Ffw0rHyXkAAIjPr.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 16/362 ./parser-output/media/1470880576127193091-FGmeFUTWYAYUiIR.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FGmeFUTWYAYUiIR.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 17/362 ./parser-output/media/1469084752535773184-FGM8lgOXwAULeqh.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FGM8lgOXwAULeqh.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 18/362 ./parser-output/media/1468951766213353474-FGKUF9TXEAUnA-D.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 19/362 ./parser-output/media/1466342023930294274-FFl-S3JXMAUzRfI.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/tweet_video/FFl-S3JXMAUzRfI.mp4 because of exception: Download failed with status "404 Not Found". Response content: ""
+ 20/362 ./parser-output/media/1463203834780659717-FE5YG1mXIAYU_rF.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FE5YG1mXIAYU_rF.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 21/362 ./parser-output/media/1462498852053921798-FEvWuxfVkAMkKRm.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 22/362 ./parser-output/media/1462362887972962308-FEtbH0SXsAI91w3.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FEtbH0SXsAI91w3.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 23/362 ./parser-output/media/1461600448260059138-FD2x28vX0AgBV4W.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 24/362 ./parser-output/media/1461328991244148747-FEeu992WUAcHvz6.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/tweet_video/FEeu992WUAcHvz6.mp4 because of exception: Download failed with status "404 Not Found". Response content: ""
+ 25/362 ./parser-output/media/1461245896524537863-FEdjZWcXIAAXQA5.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FEdjZWcXIAAXQA5.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 26/362 ./parser-output/media/1460626280077012993-FEUv3BnWYAkY1xL.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FEUv3BnWYAkY1xL.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 27/362 ./parser-output/media/1460526609228873728-FETVNIrXEAMLQ-y.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/tweet_video/FETVNIrXEAMLQ-y.mp4 because of exception: Download failed with status "404 Not Found". Response content: ""
+ 28/362 ./parser-output/media/1460355292571521028-FEQ5WdQXoAcGmLN.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FEQ5WdQXoAcGmLN.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 29/362 ./parser-output/media/1460161467920044042-FEOJHE1WUAEwdk2.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FEOJHE1WUAEwdk2.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 30/362 ./parser-output/media/1456330348896395266-FDXsrQZWQAkT79P.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FDXsrQZWQAkT79P.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 31/362 ./parser-output/media/1455922569249447945-FDR5iP0VQAAW9On.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 32/362 ./parser-output/media/1455622369536585730-FDNo0nHWQAA-dcm.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FDNo0nHWQAA-dcm.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 33/362 ./parser-output/media/1455570450407383040-FDM3__YWUAImsur.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 34/362 ./parser-output/media/1455568399376044041-FDM3uyEWEAczODx.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FDM3uyEWEAczODx.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 35/362 ./parser-output/media/1454041529908092932-FC3LD5iWYAAkQ-o.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/tweet_video/FC3LD5iWYAAkQ-o.mp4 because of exception: Download failed with status "404 Not Found". Response content: ""
+ 36/362 ./parser-output/media/1450737951294513153-FCIOeVtXsAA8PpK.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FCIOeVtXsAA8PpK.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 37/362 ./parser-output/media/1450048743428984838-FB-birfWEAIKA8X.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FB-birfWEAIKA8X.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 38/362 ./parser-output/media/1448371247402868740-FBelArlVIAQT2tJ.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 39/362 ./parser-output/media/1448000593080037378-FBgw1EjWEAgv_fK.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FBgw1EjWEAgv_fK.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 40/362 ./parser-output/media/1446149244721811461-FBHAxhkX0Ac4udo.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FBHAxhkX0Ac4udo.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 41/362 ./parser-output/media/1435905645899829253-E-1cYtKX0AglUTn.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E-1cYtKX0AglUTn.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 42/362 ./parser-output/media/1435528316904255490-E-wFHOSWYAcRTd2.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E-wFHOSWYAcRTd2.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 43/362 ./parser-output/media/1435493723534659588-E-tnrddXoAAr_op.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 44/362 ./parser-output/media/1434904348534870018-E-nN5O-XoAAxwsl.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/tweet_video/E-nN5O-XoAAxwsl.mp4 because of exception: Download failed with status "404 Not Found". Response content: ""
+ 45/362 ./parser-output/media/1434901561034088454-E-nLXDRWYAMH6ul.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/tweet_video/E-nLXDRWYAMH6ul.mp4 because of exception: Download failed with status "404 Not Found". Response content: ""
+ 46/362 ./parser-output/media/1434152207864246272-E-chuLjX0AgdcmT.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E-chuLjX0AgdcmT.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 47/362 ./parser-output/media/1433350764991291392-E-RI60KXsAI50_w.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/tweet_video/E-RI60KXsAI50_w.mp4 because of exception: Download failed with status "404 Not Found". Response content: ""
+ 48/362 ./parser-output/media/1430849233901527043-E9qd0vMXIAQ0-Uk.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 49/362 ./parser-output/media/1427631045608886278-E8-bAfQXMCUTa9_.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 50/362 ./parser-output/media/1423693175026298889-E8DlaRfUcAYLRPu.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 51/362 ./parser-output/media/1419626473787469824-E7OGoq-XoAACe6-.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/tweet_video/E7OGoq-XoAACe6-.mp4 because of exception: Download failed with status "404 Not Found". Response content: ""
+ 52/362 ./parser-output/media/1581622812027936768-FfMNjtzXgAI8X4T.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FfMNjtzXgAI8X4T.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 53/362 ./parser-output/media/1581592354943029248-EmXiO0yXcAAhkhg.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 54/362 ./parser-output/media/1581569286228692992-FfLcyO6X0AA0T5T.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FfLcyO6X0AA0T5T.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 55/362 ./parser-output/media/1580892014522294272-FfB05TlWAAIc85V.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/tweet_video/FfB05TlWAAIc85V.mp4 because of exception: Download failed with status "404 Not Found". Response content: ""
+ 56/362 ./parser-output/media/1580594088361230336-Fe9l7F_XkAENZyG.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/Fe9l7F_XkAENZyG.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 57/362 ./parser-output/media/1415410411726381058-E6SLLnfUcAE8F4s.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 58/362 ./parser-output/media/1412162178745081863-E5f5uulX0AY3s0L.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 59/362 ./parser-output/media/1412108010168717314-E5jQDATX0AQIu85.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E5jQDATX0AQIu85.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 60/362 ./parser-output/media/1412065115281760258-E5iWLcEXEAo9g-u.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 61/362 ./parser-output/media/1411626502324637696-E5ca0UiWUAcGHK_.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E5ca0UiWUAcGHK_.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 62/362 ./parser-output/media/1411625312178348035-KIVlRyw1HR_hLUaz.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1411625243140136962/pu/vid/640x360/KIVlRyw1HR_hLUaz.mp4?tag=12 because of exception: Download failed with status "404 Not Found". Response content: ""
+ 63/362 ./parser-output/media/1406383006718337030-E4P9JUYX0AQSbv3.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 64/362 ./parser-output/media/1405091887170605058-E3_jc3QXMAIJl0q.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E3_jc3QXMAIJl0q.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 65/362 ./parser-output/media/1579801184080375808-FeyUzMtXgAExRKO.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/tweet_video/FeyUzMtXgAExRKO.mp4 because of exception: Download failed with status "404 Not Found". Response content: ""
+ 66/362 ./parser-output/media/1579799322899943425-FeyTCPvXEAARhF5.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeyTCPvXEAARhF5.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 67/362 ./parser-output/media/1402543565092360193-E3WmbvYXMAEqYou.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 68/362 ./parser-output/media/1402522102465536000-E3bBvFUXwAAKLeA.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 69/362 ./parser-output/media/1400702605924474886-E3BLPY3XMAU7rLi.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E3BLPY3XMAU7rLi.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 70/362 ./parser-output/media/1398255991091826688-E2eZuUAWYAEo6hk.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2eZuUAWYAEo6hk.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 71/362 ./parser-output/media/1397545773835956225-E2UUeAXWYAQmiM1.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2UUeAXWYAQmiM1.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 72/362 ./parser-output/media/1397540865904611338-EwsTHgxXMAM-w-z.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 73/362 ./parser-output/media/1396943459790041090-E2Lwo2cXEAAA_6Q.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2Lwo2cXEAAA_6Q.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 74/362 ./parser-output/media/1396943459790041090-E2Lwp-lXIAAX7im.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2Lwp-lXIAAX7im.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 75/362 ./parser-output/media/1396453378847383552-E2EywzVXsAA71md.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2EywzVXsAA71md.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 76/362 ./parser-output/media/1396388581955022850-E2D3qqBWUAAZl9s.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2D3qqBWUAAZl9s.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 77/362 ./parser-output/media/1393662490274373633-E1dIpMnWEAIpTtr.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E1dIpMnWEAIpTtr.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 78/362 ./parser-output/media/1392429666993115139-E1CMn1DXMAYfoy3.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 79/362 ./parser-output/media/1391826108954333186-E1C9m4tWUAAthqC.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 80/362 ./parser-output/media/1390574240257216513-E0xP0lhXsAAyHsN.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E0xP0lhXsAAyHsN.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 81/362 ./parser-output/media/1390241088909230080-E0sg45gWQAAfpaS.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E0sg45gWQAAfpaS.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 82/362 ./parser-output/media/1388792800624451586-E0O9t7aVkAYhiT1.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 83/362 ./parser-output/media/1578293153517703169-Fec5BySWQAAnXWZ.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/Fec5BySWQAAnXWZ.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 84/362 ./parser-output/media/1578071482399350784-FeZvpJsXoAIA4v8.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeZvpJsXoAIA4v8.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 85/362 ./parser-output/media/1577947224461508617-FeX-UQtXgAEZn94.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeX-UQtXgAEZn94.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 86/362 ./parser-output/media/1577947219843506176-FeX9-nAX0AA1clo.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeX9-nAX0AA1clo.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 87/362 ./parser-output/media/1577947213145178113-FeXx5YjWIAAvOER.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeXx5YjWIAAvOER.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 88/362 ./parser-output/media/1388787610185830406-E0X29OxXMAIlF6u.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/tweet_video/E0X29OxXMAIlF6u.mp4 because of exception: Download failed with status "404 Not Found". Response content: ""
+ 89/362 ./parser-output/media/1387662620220698624-E0H3yJ1WEAIceRQ.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E0H3yJ1WEAIceRQ.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 90/362 ./parser-output/media/1384172525232418830-EzWRdPGVgAUa_ZQ.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EzWRdPGVgAUa_ZQ.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 91/362 ./parser-output/media/1384098471322406912-EzVON5GUYAk2s-z.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EzVON5GUYAk2s-z.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 92/362 ./parser-output/media/1384075405884215299-EzU5HbBVUAEHE5-.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EzU5HbBVUAEHE5-.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 93/362 ./parser-output/media/1384075405884215299-EzU5HbDVUAA9H3q.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EzU5HbDVUAA9H3q.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 94/362 ./parser-output/media/1384075405884215299-EzU5HbQVUAA_3BJ.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EzU5HbQVUAA_3BJ.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 95/362 ./parser-output/media/1383084641867943938-EzG0JIDW8AUwIct.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/tweet_video/EzG0JIDW8AUwIct.mp4 because of exception: Download failed with status "404 Not Found". Response content: ""
+ 96/362 ./parser-output/media/1382746860339802116-EzB-uTWXAAEIRgp.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 97/362 ./parser-output/media/1382330538749530118-Ey8GSMrXMAcrhxy.jpg: SUCCESS. New version is 236% larger in bytes and 525% larger in pixels. 0.8MB downloaded
+ 98/362 ./parser-output/media/1381170033074786306-Eyn6CDkWgAAuQlj.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 99/362 ./parser-output/media/1577042978828210176-FeLIOnVWIAAQkh3.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+100/362 ./parser-output/media/1576691417132322816-FeGIXJ3XgAMx4LU.jpg: SUCCESS. New version is 130% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+101/362 ./parser-output/media/1576574630563053568-FeEePQzXkAAQiKu.jpg: SUCCESS. New version is 139% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+102/362 ./parser-output/media/1576510888160677888-FeDa1yTWQAEb1Lu.jpg: SUCCESS. New version is 123% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+103/362 ./parser-output/media/1576510888160677888-FeDa1yVWIAEFiTO.jpg: SUCCESS. New version is 103% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+104/362 ./parser-output/media/1576506586092429312-FeDZoO0XwAAc3A-.jpg: SUCCESS. New version is 128% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+105/362 ./parser-output/media/1576506586092429312-FeDZoOyX0AAiOfR.jpg: SUCCESS. New version is 125% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+106/362 ./parser-output/media/1576506510943059970-FeDZ4s_WQAMTCYX.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+107/362 ./parser-output/media/1378295821398114309-EyCwmf6W8AY5SbW.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+108/362 ./parser-output/media/1377673217930797059-Ex56btDWQAIhghA.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+109/362 ./parser-output/media/1377632257817608193-Ex5TchAVcAACZyH.jpg: SUCCESS. New version is  40% larger in bytes and  62% larger in pixels. 0.1MB downloaded
+110/362 ./parser-output/media/1377622457654317066-Ex5MUazWQAUOLnC.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+111/362 ./parser-output/media/1376617976770748423-Exq6dIzWYAElcge.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+112/362 ./parser-output/media/1375071270870605829-ExU8Bp_XEAMgHTN.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+113/362 ./parser-output/media/1371728130289852420-EwlbdENXIAMIOUJ.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+114/362 ./parser-output/media/1576478601620336641-FeDG5b0XwAEUcio.jpg: SUCCESS. New version is 135% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+115/362 ./parser-output/media/1576136254072446977-Fd-PkHEXkAEfcXv.jpg: SUCCESS. New version is 118% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+116/362 ./parser-output/media/1576115756080967680-Fd985bjWAAAuK1r.jpg: SUCCESS. New version is 128% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+117/362 ./parser-output/media/1576111789556629505-Fd94xPsXEAE_L0i.jpg: SUCCESS. New version is 111% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+118/362 ./parser-output/media/1576111642877624320-Fd922txWIAEw3DT.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+119/362 ./parser-output/media/1576111529145274368-Fd94rGnXwAATCtB.jpg: SUCCESS. New version is 111% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+120/362 ./parser-output/media/1576111410337415168-Fd94zHZXgAMdNh-.jpg: SUCCESS. New version is 156% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+121/362 ./parser-output/media/1576104341970497536-Fd9yh7TXoAAkaG9.jpg: SUCCESS. New version is 164% larger in bytes and 191% larger in pixels. 0.6MB downloaded
+122/362 ./parser-output/media/1575894277246402560-Fd6xLplX0AAZX_Z.jpg: SUCCESS. New version is  51% larger in bytes and  93% larger in pixels. 0.1MB downloaded
+123/362 ./parser-output/media/1575798607373955078-Fd5cRxlWQAAnZzq.jpg: SUCCESS. New version is 476% larger in bytes and 476% larger in pixels. 1.0MB downloaded
+124/362 ./parser-output/media/1574738140266639361-FdqX1VRWAAA9fhn.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+125/362 ./parser-output/media/1574647604444811264-FdpFpVtXoAAo8pT.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+126/362 ./parser-output/media/1574535608457781248-FdmAu9HX0AE_4tU.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+127/362 ./parser-output/media/1590022330788761600-FhDk4V5XoAM7L6J.jpg: SUCCESS. New version is 141% larger in bytes and  92% larger in pixels. 0.4MB downloaded
+128/362 ./parser-output/media/1589619416958132225-Fg6_flTUUAAgp6t.jpg: SUCCESS. New version is  69% larger in bytes and 130% larger in pixels. 0.2MB downloaded
+129/362 ./parser-output/media/1574458444756783111-FdmVNDpWAAEcB0O.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+130/362 ./parser-output/media/1574356416806223877-Fdk8z_HWIAI_Zng.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+131/362 ./parser-output/media/1573009539288662021-FdRz1GxWQAQyKM2.jpg: SUCCESS. New version is 131% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+132/362 ./parser-output/media/1573001642408116226-FdRoZszWIAESMW7.jpg: SUCCESS. New version is 115% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+133/362 ./parser-output/media/1572999032028467200-FdRqQRCXgAMJTlN.jpg: SUCCESS. New version is 126% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+134/362 ./parser-output/media/1572980367866355712-FdRZSVoWIAAekri.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+135/362 ./parser-output/media/1572248912802742273-FdG_tAVX0AA8omK.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+136/362 ./parser-output/media/1570726626803195906-FcxXicwWAAE9ivT.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+137/362 ./parser-output/media/1570104275425951748-FcohZ-cWIAI_s5G.jpg: SUCCESS. New version is 154% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+138/362 ./parser-output/media/1570104275425951748-FcohZ-dWQAIilr3.jpg: SUCCESS. New version is 106% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+139/362 ./parser-output/media/1569942940876685318-FcmOqL5XkAATxxd.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+140/362 ./parser-output/media/1568138473286107136-FcInsa7XEAItemQ.jpg: SUCCESS. New version is 119% larger in bytes and 191% larger in pixels. 0.6MB downloaded
+141/362 ./parser-output/media/1567198563888766977-Fb_OxihX0AII794.jpg: SUCCESS. New version is  65% larger in bytes and 156% larger in pixels. 0.1MB downloaded
+142/362 ./parser-output/media/1567060402579673095-Fb9RIIxXwAMBDox.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+143/362 ./parser-output/media/1565678891473199104-Fbpoob8XwAAuYcx.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+144/362 ./parser-output/media/1565624511927558145-Fbo3J9IWAAEgY6j.jpg: SUCCESS. New version is  25% larger in bytes and  56% larger in pixels. 0.1MB downloaded
+145/362 ./parser-output/media/1564873326568300545-FbeK8igWQAIddhf.jpg: SUCCESS. New version is 118% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+146/362 ./parser-output/media/1564337780485922816-FbWkj-AWQAEBNko.jpg: SUCCESS. New version is  20% larger in bytes and  49% larger in pixels. 0.1MB downloaded
+147/362 ./parser-output/media/1564194398371454976-FbUiaUJWIAAMCZC.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+148/362 ./parser-output/media/1563109270597406721-FbFHkn1X0AAWh2L.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+149/362 ./parser-output/media/1562828279689940994-FarFGVRVQAAoIT4.jpg: SUCCESS. New version is 1207% larger in bytes and 1011% larger in pixels. 1.0MB downloaded
+150/362 ./parser-output/media/1562724917539352576-Fa_qAmLXgAA4anP.jpg: SUCCESS. New version is 721% larger in bytes and 1011% larger in pixels. 0.8MB downloaded
+151/362 ./parser-output/media/1560542975041609729-FagpKeSWQAE9O8y.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+152/362 ./parser-output/media/1560263818538029056-FacrpaWakAYlzWu.jpg: SUCCESS. New version is 643% larger in bytes and 476% larger in pixels. 0.8MB downloaded
+153/362 ./parser-output/media/1560206729207504897-Fab3v0GXgAEDXE6.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+154/362 ./parser-output/media/1560199842248495105-FabxDbCX0AE-dqn.jpg: SUCCESS. New version is  12% larger in bytes and  45% larger in pixels. 0.0MB downloaded
+155/362 ./parser-output/media/1559652142734000128-FaT_UyZXEAE2lVX.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+156/362 ./parser-output/media/1559563731729883138-FaSu7DSXgAAdp-E.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+157/362 ./parser-output/media/1559195231437946881-FaNfy5wWQAEUM-I.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+158/362 ./parser-output/media/1588313618474475520-PIfJaoaruPE-byIt.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1588313591224193025/pu/vid/414x266/PIfJaoaruPE-byIt.mp4?tag=12 because of exception: 'content-length'
+159/362 ./parser-output/media/1559117790912475136-FaMZXfOVEAACHsH.jpg: SUCCESS. New version is  22% larger in bytes and  52% larger in pixels. 0.1MB downloaded
+160/362 ./parser-output/media/1557746552378048513-FZ46OnaUsAAsxSr.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+161/362 ./parser-output/media/1557734536586625025-FZ4uduAaUAMrVh2.jpg: SUCCESS. New version is  14% larger in bytes and  38% larger in pixels. 0.0MB downloaded
+162/362 ./parser-output/media/1557406103503265792-FZ0El9zXgAI2Y1t.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+163/362 ./parser-output/media/1557350791966498816-FZzSOLqXgAEB8hx.jpg: SUCCESS. New version is   7% larger in bytes and  10% larger in pixels. 0.1MB downloaded
+164/362 ./parser-output/media/1556569820304478208-FZoLyorWIAAhN-n.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+165/362 ./parser-output/media/1555597647033077760-FZZyC-lXkAIQCY7.jpg: SUCCESS. New version is 129% larger in bytes and 239% larger in pixels. 0.1MB downloaded
+166/362 ./parser-output/media/1554733893487575041-FZOGI71WAAYWGDR.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+167/362 ./parser-output/media/1554038968064376832-FZEOLIsWQAAHo8J.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+168/362 ./parser-output/media/1552574211348205568-FYvaA0mXgAA4f5u.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+169/362 ./parser-output/media/1551859891232555009-FYlPQW8X0AAsPz4.jpg: SUCCESS. New version is 114% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+170/362 ./parser-output/media/1550899795153326080-FYXnI96WIAAfraJ.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+171/362 ./parser-output/media/1550190558827749376-FYNh_d9XwAEtuFY.jpg: SUCCESS. New version is  34% larger in bytes and  83% larger in pixels. 0.1MB downloaded
+172/362 ./parser-output/media/1548701008573906945-FX4XJc6WQAY9BrQ.jpg: SUCCESS. New version is   6% larger in bytes and  14% larger in pixels. 0.2MB downloaded
+173/362 ./parser-output/media/1548673726031470594-FX3-ipZWIAg7g4X.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+174/362 ./parser-output/media/1548047528402096130-FXvE7jpUcAEPykM.jpg: SUCCESS. New version is 149% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+175/362 ./parser-output/media/1548047528402096130-FXvE9PSUIAAeTy_.jpg: SUCCESS. New version is 188% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+176/362 ./parser-output/media/1548012209527087111-FXuk0JlUcAwP1pp.jpg: SUCCESS. New version is 162% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+177/362 ./parser-output/media/1548006613881360384-FXueJc5VUAEHbx6.jpg: SUCCESS. New version is 166% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+178/362 ./parser-output/media/1547985961979564041-FXuNA1mUIAM2IJV.jpg: SUCCESS. New version is 179% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+179/362 ./parser-output/media/1547948878984425475-FXtrPvlVsAAdJIv.jpg: SUCCESS. New version is 174% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+180/362 ./parser-output/media/1547948175352217600-FXtqnIiUUAI4Z-a.jpg: SUCCESS. New version is 118% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+181/362 ./parser-output/media/1547942175157014529-FXtlLhOVEAIxvL_.jpg: SUCCESS. New version is 149% larger in bytes and 191% larger in pixels. 0.5MB downloaded
+182/362 ./parser-output/media/1547646781227278337-FXpYikCUEAMxwgI.jpg: SUCCESS. New version is 196% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+183/362 ./parser-output/media/1547621552287428609-FXpBl_nVUAAxEQv.jpg: SUCCESS. New version is 169% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+184/362 ./parser-output/media/1547610289016676352-FXo3BteUEAADCjm.jpg: SUCCESS. New version is 160% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+185/362 ./parser-output/media/1547609723620364294-FXoyT6zUIAAthpi.jpg: SUCCESS. New version is 153% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+186/362 ./parser-output/media/1547603590700621829-FXoxOxDUsAIJrLB.jpg: SUCCESS. New version is 149% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+187/362 ./parser-output/media/1547603563081129985-FXoxOxDUsAIJrLB.jpg: SUCCESS. New version is 149% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+188/362 ./parser-output/media/1547330682648756224-FXk4OsWXgAAfdl9.jpg: SUCCESS. New version is 168% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+189/362 ./parser-output/media/1547319688987906050-FXkvCyBWAAccqJQ.jpg: SUCCESS. New version is 170% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+190/362 ./parser-output/media/1547291107872096256-FXkVCsYWYAEJlOO.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+191/362 ./parser-output/media/1547256262227906560-FXj0pW1WQAApB_v.jpg: SUCCESS. New version is 168% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+192/362 ./parser-output/media/1547247516642598913-FXjtZynWIAIZTLF.jpg: SUCCESS. New version is 160% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+193/362 ./parser-output/media/1547239417164824577-FXjmC4mWYAAodYn.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+194/362 ./parser-output/media/1547238501426536448-FXjlM56XgAMa1H8.jpg: SUCCESS. New version is 152% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+195/362 ./parser-output/media/1547238287173160962-FXjkvotXoAU28N7.jpg: SUCCESS. New version is 177% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+196/362 ./parser-output/media/1547233519394607105-FXjd9-GWQAApVb8.jpg: SUCCESS. New version is  94% larger in bytes and 171% larger in pixels. 0.2MB downloaded
+197/362 ./parser-output/media/1547233112060530688-FXjgMV8X0AIrjTN.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+198/362 ./parser-output/media/1547223822801289217-FXjX188X0AAfALh.jpg: SUCCESS. New version is 144% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+199/362 ./parser-output/media/1547223242691280899-FXjU3f2XwAAgoka.jpg: SUCCESS. New version is 148% larger in bytes and 109% larger in pixels. 0.4MB downloaded
+200/362 ./parser-output/media/1547221690161184768-FXjV6pYX0AUUpvR.jpg: SUCCESS. New version is 146% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+201/362 ./parser-output/media/1547214809619374080-FXjPqAlXwAMTywP.jpg: SUCCESS. New version is 145% larger in bytes and 191% larger in pixels. 0.5MB downloaded
+202/362 ./parser-output/media/1547086545189994499-FXhaQ7lXEAA0VSA.jpg: SUCCESS. New version is 170% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+203/362 ./parser-output/media/1546980459028127744-FXf6gAhXEAAdcsl.jpg: SUCCESS. New version is 166% larger in bytes and 191% larger in pixels. 0.5MB downloaded
+204/362 ./parser-output/media/1588053685405466624-FgnmZ9XWQAIXrLC.jpg: SUCCESS. New version is 154% larger in bytes and  44% larger in pixels. 0.5MB downloaded
+205/362 ./parser-output/media/1587896647849168896-uslkgEZLGQTRGTxk.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1587896620536004615/pu/vid/550x298/uslkgEZLGQTRGTxk.mp4?tag=12 because of exception: 'content-length'
+206/362 ./parser-output/media/1587895983614361600-M5W6JzbWnCwG46aJ.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1587895955914989569/pu/vid/550x298/M5W6JzbWnCwG46aJ.mp4?tag=12 because of exception: 'content-length'
+207/362 ./parser-output/media/1546702271169417218-VPoRIb3rZRTVPbE3.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1546702149526110209/pu/vid/1280x720/VPoRIb3rZRTVPbE3.mp4?tag=12 because of exception: 'content-length'
+208/362 ./parser-output/media/1546662618773037061-FXbZbneXwAAnGpW.jpg: SUCCESS. New version is 149% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+209/362 ./parser-output/media/1546656565566095360-FXbT7fiWQAAUI-F.jpg: SUCCESS. New version is 148% larger in bytes and 191% larger in pixels. 0.5MB downloaded
+210/362 ./parser-output/media/1546611909398519809-FXaq47dXEAAJjmQ.jpg: SUCCESS. New version is 141% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+211/362 ./parser-output/media/1546187412157628416-FXUpQFZXgAAStBU.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+212/362 ./parser-output/media/1545494565741858817-FXKyhSqXgAcG99o.jpg: SUCCESS. New version is 1104% larger in bytes and 1029% larger in pixels. 2.9MB downloaded
+213/362 ./parser-output/media/1545494565741858817-FXKyhSkXEAEGyxh.jpg: SUCCESS. New version is 1224% larger in bytes and 1029% larger in pixels. 3.1MB downloaded
+214/362 ./parser-output/media/1545494565741858817-FXKyhS8WIAAWpVj.jpg: SUCCESS. New version is 1168% larger in bytes and 1029% larger in pixels. 3.3MB downloaded
+215/362 ./parser-output/media/1542846108858294272-FWlKWpHWAAAD3Dk.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+216/362 ./parser-output/media/1542575523444019201-FWhHx8NWAAEl50d.jpg: SUCCESS. New version is 153% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+217/362 ./parser-output/media/1542575523444019201-FWhHx8LX0AI09Kh.jpg: SUCCESS. New version is 134% larger in bytes and 191% larger in pixels. 0.6MB downloaded
+218/362 ./parser-output/media/1542573727698878465-FWhFBkHX0AEljeo.jpg: SUCCESS. New version is 128% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+219/362 ./parser-output/media/1540031805910286336-FV9KwaEWIAYPWV1.jpg: SUCCESS. New version is 186% larger in bytes and 191% larger in pixels. 0.5MB downloaded
+220/362 ./parser-output/media/1540021164302540802-FV9BDMDXgAEgY4y.jpg: SUCCESS. New version is 197% larger in bytes and 191% larger in pixels. 0.6MB downloaded
+221/362 ./parser-output/media/1540021164302540802-FV9BEUBWAAAmO4_.jpg: SUCCESS. New version is 181% larger in bytes and 191% larger in pixels. 0.5MB downloaded
+222/362 ./parser-output/media/1540008805022457857-FV81ttlXgAEF-l3.jpg: SUCCESS. New version is 1513% larger in bytes and 1011% larger in pixels. 2.2MB downloaded
+223/362 ./parser-output/media/1539845819960008704-FV6hE0vXgAE-mz1.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+224/362 ./parser-output/media/1539838512752693248-FV6awpWXoAEB4E5.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+225/362 ./parser-output/media/1539654280730517504-FV3zZ2xX0AAQaN9.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+226/362 ./parser-output/media/1539200956025405442-FVxWrsYWAAAC3fI.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+227/362 ./parser-output/media/1538596411796856839-FVn_yf-WYAAGa_R.jpg: SUCCESS. New version is 146% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+228/362 ./parser-output/media/1538576331579039746-FVoUDP4WYAAtC1B.jpg: SUCCESS. New version is 222% larger in bytes and 191% larger in pixels. 0.5MB downloaded
+229/362 ./parser-output/media/1538570860927270913-FVoUDP4WYAAtC1B.jpg: SUCCESS. New version is 222% larger in bytes and 191% larger in pixels. 0.5MB downloaded
+230/362 ./parser-output/media/1538553900277583872-FVoKSr7WAAQWp4B.jpg: SUCCESS. New version is 288% larger in bytes and 191% larger in pixels. 0.5MB downloaded
+231/362 ./parser-output/media/1587479461028630528-mx5vz4BabBubYSBG.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1587479315096240130/pu/vid/1280x720/mx5vz4BabBubYSBG.mp4?tag=12 because of exception: 'content-length'
+232/362 ./parser-output/media/1538543013693165569-FVoAsfhXwAA1DGm.jpg: SUCCESS. New version is 177% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+233/362 ./parser-output/media/1538476299232190464-FVnD7naWYAA_fpd.jpg: SUCCESS. New version is 178% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+234/362 ./parser-output/media/1538474828688154627-FVnCrpFWUAE0h-O.jpg: SUCCESS. New version is 173% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+235/362 ./parser-output/media/1538463947426234368-FVm4zJ-WYAEYm8Q.jpg: SUCCESS. New version is 185% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+236/362 ./parser-output/media/1538452245968306177-FVmt-fIXoAA4hUO.jpg: SUCCESS. New version is 212% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+237/362 ./parser-output/media/1538435540726472707-FVmeytXWAAE3_ob.jpg: SUCCESS. New version is 215% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+238/362 ./parser-output/media/1538148709069881344-FVhTyjbXwAAVWuJ.jpg: SUCCESS. New version is  89% larger in bytes and 177% larger in pixels. 0.2MB downloaded
+239/362 ./parser-output/media/1538125469085843456-FVh4F2FWIAEonQY.jpg: SUCCESS. New version is 127% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+240/362 ./parser-output/media/1538105100324986880-FVhxzScX0AA8UzO.jpg: SUCCESS. New version is 216% larger in bytes and 191% larger in pixels. 0.5MB downloaded
+241/362 ./parser-output/media/1538100839469965312-FVhudpcX0AIKwtY.jpg: SUCCESS. New version is 220% larger in bytes and 191% larger in pixels. 0.5MB downloaded
+242/362 ./parser-output/media/1538077900100059136-FVhZgkzWAAA6YeG.jpg: SUCCESS. New version is 164% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+243/362 ./parser-output/media/1538075266551099392-FVhXSKlWYAEOumM.jpg: SUCCESS. New version is 178% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+244/362 ./parser-output/media/1538073076604276736-FVhUxZxWYAEcPIg.jpg: SUCCESS. New version is 180% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+245/362 ./parser-output/media/1537915107518189571-FVfFn2GUYAIQTAG.jpg: SUCCESS. New version is 102% larger in bytes and 191% larger in pixels. 0.0MB downloaded
+246/362 ./parser-output/media/1537807121697411073-FVdjU7yXoAQ4crZ.jpg: SUCCESS. New version is 194% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+247/362 ./parser-output/media/1537776311288176643-FVdHY8UXEAA0BuI.jpg: SUCCESS. New version is 195% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+248/362 ./parser-output/media/1537772433893208064-FVdD0moXEAAfKMG.jpg: SUCCESS. New version is 212% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+249/362 ./parser-output/media/1537730179367424002-FVcdaUZXEAMYE2Q.jpg: SUCCESS. New version is   1% larger in bytes and  13% larger in pixels. 0.1MB downloaded
+250/362 ./parser-output/media/1537709101467172867-FVcKPPjWAAY_wyR.jpg: SUCCESS. New version is 184% larger in bytes and 191% larger in pixels. 0.5MB downloaded
+251/362 ./parser-output/media/1537709093749723136-FVcJHXuXEAEVQdb.jpg: SUCCESS. New version is 134% larger in bytes and 191% larger in pixels. 0.5MB downloaded
+252/362 ./parser-output/media/1537700799706501120-FVcCuc5X0AAz-Bx.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+253/362 ./parser-output/media/1537641721953148930-FVbM8VhXwAEIOeS.jpg: SUCCESS. New version is 194% larger in bytes and 191% larger in pixels. 0.5MB downloaded
+254/362 ./parser-output/media/1536305586261966848-FVINxsSXoAEXTfD.jpg: SUCCESS. New version is 139% larger in bytes and 191% larger in pixels. 0.6MB downloaded
+255/362 ./parser-output/media/1536305586261966848-FVINxsvWIAAdMEK.jpg: SUCCESS. New version is 189% larger in bytes and 191% larger in pixels. 1.0MB downloaded
+256/362 ./parser-output/media/1536305586261966848-FVINxsaXoAAIc2a.jpg: SUCCESS. New version is 129% larger in bytes and 191% larger in pixels. 0.9MB downloaded
+257/362 ./parser-output/media/1536305586261966848-FVINxsSWQAE7PDZ.jpg: SUCCESS. New version is 137% larger in bytes and 191% larger in pixels. 0.5MB downloaded
+258/362 ./parser-output/media/1536285843018633216-FVGscwxVEAAPFjC.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+259/362 ./parser-output/media/1534574042816163842-FUvmtGfWIAAKw43.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+260/362 ./parser-output/media/1532654575806709762-FUUVINNXwAEUoWD.jpg: SUCCESS. New version is 412% larger in bytes and 156% larger in pixels. 0.9MB downloaded
+261/362 ./parser-output/media/1530177662605529089-FTxIdFCXoAEv87S.jpg: SUCCESS. New version is 147% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+262/362 ./parser-output/media/1530150946982055938-FTwwIisXEAAT5mJ.jpg: SUCCESS. New version is   2% larger in bytes and  14% larger in pixels. 0.1MB downloaded
+263/362 ./parser-output/media/1530148777075556353-FTwuL5pWQAAoMPs.jpg: SUCCESS. New version is 161% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+264/362 ./parser-output/media/1530146123415011330-FTwrrklWQAMJYnQ.jpg: SUCCESS. New version is 296% larger in bytes and 476% larger in pixels. 0.7MB downloaded
+265/362 ./parser-output/media/1530114299854725123-FTwFfFVWUAAXvNC.jpg: SUCCESS. New version is 170% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+266/362 ./parser-output/media/1530113406371602432-FTwOBHUWIAU4mT4.jpg: SUCCESS. New version is 150% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+267/362 ./parser-output/media/1530083167939469312-FTvyd9DXEAEJzdK.jpg: SUCCESS. New version is 156% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+268/362 ./parser-output/media/1530078020135944194-FTvt0NNXEAA1Ux0.jpg: SUCCESS. New version is 595% larger in bytes and 476% larger in pixels. 1.0MB downloaded
+269/362 ./parser-output/media/1529811100228800513-FTr7E9_XwAADQn0.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+270/362 ./parser-output/media/1529781248796856322-FTrf61JWYAAOLGA.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+271/362 ./parser-output/media/1529780780435755008-FTregkmWAAAjoVD.jpg: SUCCESS. New version is 111% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+272/362 ./parser-output/media/1529780157808001024-FTrYCkKX0AApVHw.jpg: SUCCESS. New version is 109% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+273/362 ./parser-output/media/1529780157808001024-FTrYCkSWYAA8ijj.jpg: SUCCESS. New version is 113% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+274/362 ./parser-output/media/1529762318774673411-FTrOsFNXoAAu9jd.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+275/362 ./parser-output/media/1529741632387567621-FTqsFrqXsAEnzSy.jpg: SUCCESS. New version is 129% larger in bytes and 191% larger in pixels. 0.6MB downloaded
+276/362 ./parser-output/media/1529720739754123264-FTqo5Z1XEAI4nDb.jpg: SUCCESS. New version is 151% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+277/362 ./parser-output/media/1529717932951060480-FTqmVgVXoAAZdbg.jpg: SUCCESS. New version is 153% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+278/362 ./parser-output/media/1529717925371846657-FTqmDLEXEAAzpmk.jpg: SUCCESS. New version is 159% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+279/362 ./parser-output/media/1529717041090936835-FTqgAxXWUAA9Jev.jpg: SUCCESS. New version is 150% larger in bytes and 191% larger in pixels. 0.6MB downloaded
+280/362 ./parser-output/media/1529716343565606912-FTqk0zuWAAAz0LT.jpg: SUCCESS. New version is 134% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+281/362 ./parser-output/media/1529418725375586306-FTmWKMKWYAAj599.jpg: SUCCESS. New version is 164% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+282/362 ./parser-output/media/1529051362910142465-FThIFopXwAghG5s.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+283/362 ./parser-output/media/1587025529542254599-FgY_SYPWAAEkmJm.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+284/362 ./parser-output/media/1527344057780908032-FTI3UbLaQAUWa9O.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+285/362 ./parser-output/media/1527338058424541206-FTIx0n9UYBcuAVz.jpg: SUCCESS. New version is 433% larger in bytes and 476% larger in pixels. 0.8MB downloaded
+286/362 ./parser-output/media/1526590693849939971-FS-Hg_rWIAAuW3e.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+287/362 ./parser-output/media/1526462002364928002-FS8VGMzWUAAA-lB.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+288/362 ./parser-output/media/1526175161082384384-FS4QFgRWQAE1RMg.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+289/362 ./parser-output/media/1524993847847227392-FSnd0YcX0AEsE1-.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+290/362 ./parser-output/media/1524714063749595137-FSjfWzRWYAAjEuv.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+291/362 ./parser-output/media/1524368477246611457-FSelBtwWQAAmTNz.jpg: SUCCESS. New version is   1% larger in bytes and  14% larger in pixels. 0.1MB downloaded
+292/362 ./parser-output/media/1524064198317195264-FSaQTmzXwAQjkbz.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+293/362 ./parser-output/media/1523705421416255493-FSVJ-RXXIAEAx_0.jpg: SUCCESS. New version is  20% larger in bytes and  49% larger in pixels. 0.0MB downloaded
+294/362 ./parser-output/media/1522897101901991942-FSJq1UJXIAAVOt1.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+295/362 ./parser-output/media/1522620180987359232-FSFu-xaWQAA0hAT.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+296/362 ./parser-output/media/1521543806146985985-FR2b9mwXsAEDHsT.jpg: SUCCESS. New version is 118% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+297/362 ./parser-output/media/1521543806146985985-FR2b_G-XsAMr88A.jpg: SUCCESS. New version is 170% larger in bytes and 191% larger in pixels. 0.5MB downloaded
+298/362 ./parser-output/media/1521542767503196161-FR2bDQNWYAQcxZV.jpg: SUCCESS. New version is 148% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+299/362 ./parser-output/media/1521460847029141505-FR1LtQEXMAAMqGr.jpg: SUCCESS. New version is  19% larger in bytes and  27% larger in pixels. 0.2MB downloaded
+300/362 ./parser-output/media/1521050071852326914-FRva-ahX0AE_Be8.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+301/362 ./parser-output/media/1520535538679390213-FRoG_zwWUAEjidA.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+302/362 ./parser-output/media/1520010937918447618-FRgpoJrXwAAUVs5.jpg: SUCCESS. New version is   8% larger in bytes and  29% larger in pixels. 0.1MB downloaded
+303/362 ./parser-output/media/1519632316221505536-FRbRhj0X0AErEAd.jpg: SUCCESS. New version is  16% larger in bytes and  47% larger in pixels. 0.1MB downloaded
+304/362 ./parser-output/media/1519593212716924928-FRat70tXEAAios6.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+305/362 ./parser-output/media/1585937878844026880-FgJhnCtXgAAhNXO.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+306/362 ./parser-output/media/1585915454148603904-FgJNAHrUoAAGcvI.jpg: SUCCESS. New version is 1028% larger in bytes and 1065% larger in pixels. 0.9MB downloaded
+307/362 ./parser-output/media/1585915454148603904-FgJND70XkAA8zeb.jpg: SUCCESS. New version is 648% larger in bytes and 1065% larger in pixels. 0.8MB downloaded
+308/362 ./parser-output/media/1585915454148603904-FgJNpXhXwAARwq6.jpg: SUCCESS. New version is 130% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+309/362 ./parser-output/media/1585905792624259072-FgJEwPzXEAAr8QA.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+310/362 ./parser-output/media/1585692771595190274-FgGDG5SWAAgPeHQ.jpg: SUCCESS. New version is 127% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+311/362 ./parser-output/media/1585681119491796992-FgF4iLkWQAA7zYS.jpg: SUCCESS. New version is 136% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+312/362 ./parser-output/media/1585551175763562497-FgECYetXgAA8-md.jpg: SUCCESS. New version is 109% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+313/362 ./parser-output/media/1585550683276804096-FgEB7P3WQAAIL1R.jpg: SUCCESS. New version is 109% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+314/362 ./parser-output/media/1585548011458928640-FgD_YsoXkAEY07g.jpg: SUCCESS. New version is 129% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+315/362 ./parser-output/media/1519065780272443397-FRStSadXwAEPrJi.jpg: SUCCESS. New version is 120% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+316/362 ./parser-output/media/1518599377857695744-FRMmFPKX0AI6rkp.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+317/362 ./parser-output/media/1518504295607513090-FRLPmt9WQAAmj8_.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+318/362 ./parser-output/media/1518308205763469313-FRIdQxXWYAMF3z7.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+319/362 ./parser-output/media/1517789356542541825-FRBFXfHWQAM7g6I.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+320/362 ./parser-output/media/1516841564038963203-FQznUDhXMAQSkKc.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+321/362 ./parser-output/media/1516678575180632065-FQxR_8mXsAEK_V9.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+322/362 ./parser-output/media/1516675158911631361-FQxQA9IXIAECaRw.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+323/362 ./parser-output/media/1516332628001050629-FQsYaSYWYAIE7HG.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+324/362 ./parser-output/media/1516315190593216520-FQsITUXXwAIoKsa.jpg: SUCCESS. New version is 267% larger in bytes and 1011% larger in pixels. 0.7MB downloaded
+325/362 ./parser-output/media/1516315190593216520-FQsITUXXMAAitJJ.jpg: SUCCESS. New version is 700% larger in bytes and 1011% larger in pixels. 1.2MB downloaded
+326/362 ./parser-output/media/1516315190593216520-FQsITUZXwAMHjh-.jpg: SUCCESS. New version is 735% larger in bytes and 1011% larger in pixels. 1.6MB downloaded
+327/362 ./parser-output/media/1516315190593216520-FQsIgEaXIAA7sqr.jpg: SUCCESS. New version is actually  20% smaller in bytes but  14% larger in pixels. 0.2MB downloaded
+328/362 ./parser-output/media/1511363675873067012-FPlxODOXsAoB4Yb.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+329/362 ./parser-output/media/1509444814819020800-FPKgDPTWUAAcyFQ.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+330/362 ./parser-output/media/1508510978039853058-FO9Ou2qXIAsbSbN.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+331/362 ./parser-output/media/1506929483177242633-FOmwX8KXIAAORa-.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+332/362 ./parser-output/media/1506763699654053891-FOjUoe0WQAQyCz0.jpg: SUCCESS. New version is 144% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+333/362 ./parser-output/media/1506637577683718151-FOim29nX0AAMXmu.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+334/362 ./parser-output/media/1584913844991819776-Ff6-u7MXEAA0D6G.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+335/362 ./parser-output/media/1584679353409236992-Ff3pd7iX0AIUeuu.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+336/362 ./parser-output/media/1503054148383776771-FNvrxx7WYAAbJyJ.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+337/362 ./parser-output/media/1502319347817238535-FNlPew6XwAIxkp0.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+338/362 ./parser-output/media/1502207236550000644-FNjpg3qVQAAqWuV.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+339/362 ./parser-output/media/1502207224319410179-FNjpge8VgAIAos5.png: SUCCESS. New version is 103% larger in bytes and 525% larger in pixels. 0.0MB downloaded
+340/362 ./parser-output/media/1502207215234519049-FNjpf8SVQAA5e7p.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+341/362 ./parser-output/media/1502207205801558021-FNjpfYrVcAEtM36.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+342/362 ./parser-output/media/1502207183601078275-FNjpeBUUUAMV1Bz.jpg: SUCCESS. New version is actually  18% smaller in bytes but  14% larger in pixels. 0.1MB downloaded
+343/362 ./parser-output/media/1501831739655831552-FNcD65dXoAgSJRQ.jpg: SUCCESS. New version is  25% larger in bytes and  14% larger in pixels. 0.2MB downloaded
+344/362 ./parser-output/media/1501114466292879362-FNUHkjAUcAEIxzC.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+345/362 ./parser-output/media/1500743348734337024-FNO2HjeXsAIL6p7.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+346/362 ./parser-output/media/1500424414978007041-FNKUDKWXoAEif0N.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+347/362 ./parser-output/media/1499323408940687361-FM6qr1KXoAAMwbN.jpg: SUCCESS. New version is 733% larger in bytes and 476% larger in pixels. 2.2MB downloaded
+348/362 ./parser-output/media/1499284636765237250-FM6GgZMX0AQYOtW.jpg: SUCCESS. New version is 103% larger in bytes and 156% larger in pixels. 0.1MB downloaded
+349/362 ./parser-output/media/1499089429104893958-FM3U6a7X0AUFLU0.jpg: SUCCESS. New version is 211% larger in bytes and 440% larger in pixels. 0.2MB downloaded
+350/362 ./parser-output/media/1498071984193814528-FMo4hnCXMAAAV-O.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+351/362 ./parser-output/media/1494655489518579722-FLy0y_kX0AE6YMx.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+352/362 ./parser-output/media/1492043828668284931-FLTN0EqWQA0cDe7.jpg: SUCCESS. New version is actually  25% smaller in bytes but  14% larger in pixels. 0.1MB downloaded
+353/362 ./parser-output/media/1491731900876177408-FLOx2uSXoAMg7o7.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+354/362 ./parser-output/media/1584668854244216832-Ff3f2Y5WAAE75_t.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+355/362 ./parser-output/media/1488783455483838465-FKk4edbXMAIop_2.jpg: SUCCESS. New version is 661% larger in bytes and 1065% larger in pixels. 1.1MB downloaded
+356/362 ./parser-output/media/1484829973471010819-2m4I11PCu_7F_vz8.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+357/362 ./parser-output/media/1484558223361380358-FJjuo_-UUAMXmT3.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+358/362 ./parser-output/media/1480828912397602818-FIz19klX0AQXTfj.jpg: SUCCESS. New version is 127% larger in bytes and  55% larger in pixels. 0.3MB downloaded
+359/362 ./parser-output/media/1480294011889987584-FIsPTlnXEAY9xLn.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+360/362 ./parser-output/media/1476892684207992833-FH76EAgWYAAD5Xm.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+361/362 ./parser-output/media/1474505560619995138-FHZ-_PlWYAcap1L.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+362/362 ./parser-output/media/1472973917354553344-FHEN9i7UcAc-kw8.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+
+286 of 362 tested media files are known to be the best-quality available.
+
+  1/ 76 ./parser-output/media/1590738339711266816-FhNwFisXEAIZKFB.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhNwFisXEAIZKFB.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  2/ 76 ./parser-output/media/1590716978775269376-FhNco1KXoAIMkmM.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhNco1KXoAIMkmM.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  3/ 76 ./parser-output/media/1590456335962968065-FhJvmyZWQAAWjxh.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhJvmyZWQAAWjxh.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  4/ 76 ./parser-output/media/1590435884322521088-FhJdAVkWAAAi6XM.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhJdAVkWAAAi6XM.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  5/ 76 ./parser-output/media/1590424387672756224-FhJSjGAXoAIe580.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhJSjGAXoAIe580.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  6/ 76 ./parser-output/media/1590418094320664576-FhJM01TXoAEpWq4.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhJM01TXoAEpWq4.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  7/ 76 ./parser-output/media/1590390479496978433-FhIzsLLWYAEsL_a.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhIzsLLWYAEsL_a.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  8/ 76 ./parser-output/media/1590082751092359168-FhEby2LX0AQdUJe.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhEby2LX0AQdUJe.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  9/ 76 ./parser-output/media/1590025261260877824-FhDniC2XgAMY3Ni.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhDniC2XgAMY3Ni.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 10/ 76 ./parser-output/media/1590025261260877824-FhDniUQX0AMQIMw.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhDniUQX0AMQIMw.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 11/ 76 ./parser-output/media/1590025261260877824-FhDninpWQAA-XUH.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhDninpWQAA-XUH.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 12/ 76 ./parser-output/media/1590025261260877824-FhDni5xXwAQEIcZ.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhDni5xXwAQEIcZ.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 13/ 76 ./parser-output/media/1470880576127193091-FGmeFUTWYAYUiIR.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FGmeFUTWYAYUiIR.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 14/ 76 ./parser-output/media/1469084752535773184-FGM8lgOXwAULeqh.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FGM8lgOXwAULeqh.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 15/ 76 ./parser-output/media/1466342023930294274-FFl-S3JXMAUzRfI.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/tweet_video/FFl-S3JXMAUzRfI.mp4 because of exception: Download failed with status "404 Not Found". Response content: ""
+ 16/ 76 ./parser-output/media/1463203834780659717-FE5YG1mXIAYU_rF.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FE5YG1mXIAYU_rF.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 17/ 76 ./parser-output/media/1462362887972962308-FEtbH0SXsAI91w3.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FEtbH0SXsAI91w3.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 18/ 76 ./parser-output/media/1461328991244148747-FEeu992WUAcHvz6.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 19/ 76 ./parser-output/media/1461245896524537863-FEdjZWcXIAAXQA5.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FEdjZWcXIAAXQA5.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 20/ 76 ./parser-output/media/1460626280077012993-FEUv3BnWYAkY1xL.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FEUv3BnWYAkY1xL.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 21/ 76 ./parser-output/media/1460526609228873728-FETVNIrXEAMLQ-y.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 22/ 76 ./parser-output/media/1460355292571521028-FEQ5WdQXoAcGmLN.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FEQ5WdQXoAcGmLN.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 23/ 76 ./parser-output/media/1460161467920044042-FEOJHE1WUAEwdk2.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FEOJHE1WUAEwdk2.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 24/ 76 ./parser-output/media/1456330348896395266-FDXsrQZWQAkT79P.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FDXsrQZWQAkT79P.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 25/ 76 ./parser-output/media/1455622369536585730-FDNo0nHWQAA-dcm.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FDNo0nHWQAA-dcm.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 26/ 76 ./parser-output/media/1455568399376044041-FDM3uyEWEAczODx.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FDM3uyEWEAczODx.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 27/ 76 ./parser-output/media/1454041529908092932-FC3LD5iWYAAkQ-o.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 28/ 76 ./parser-output/media/1450737951294513153-FCIOeVtXsAA8PpK.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FCIOeVtXsAA8PpK.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 29/ 76 ./parser-output/media/1450048743428984838-FB-birfWEAIKA8X.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FB-birfWEAIKA8X.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 30/ 76 ./parser-output/media/1448000593080037378-FBgw1EjWEAgv_fK.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FBgw1EjWEAgv_fK.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 31/ 76 ./parser-output/media/1446149244721811461-FBHAxhkX0Ac4udo.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FBHAxhkX0Ac4udo.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 32/ 76 ./parser-output/media/1435905645899829253-E-1cYtKX0AglUTn.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E-1cYtKX0AglUTn.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 33/ 76 ./parser-output/media/1435528316904255490-E-wFHOSWYAcRTd2.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E-wFHOSWYAcRTd2.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 34/ 76 ./parser-output/media/1434904348534870018-E-nN5O-XoAAxwsl.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 35/ 76 ./parser-output/media/1434901561034088454-E-nLXDRWYAMH6ul.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 36/ 76 ./parser-output/media/1434152207864246272-E-chuLjX0AgdcmT.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E-chuLjX0AgdcmT.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 37/ 76 ./parser-output/media/1433350764991291392-E-RI60KXsAI50_w.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 38/ 76 ./parser-output/media/1419626473787469824-E7OGoq-XoAACe6-.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 39/ 76 ./parser-output/media/1581622812027936768-FfMNjtzXgAI8X4T.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FfMNjtzXgAI8X4T.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 40/ 76 ./parser-output/media/1581569286228692992-FfLcyO6X0AA0T5T.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FfLcyO6X0AA0T5T.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 41/ 76 ./parser-output/media/1580892014522294272-FfB05TlWAAIc85V.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 42/ 76 ./parser-output/media/1580594088361230336-Fe9l7F_XkAENZyG.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/Fe9l7F_XkAENZyG.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 43/ 76 ./parser-output/media/1412108010168717314-E5jQDATX0AQIu85.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E5jQDATX0AQIu85.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 44/ 76 ./parser-output/media/1411626502324637696-E5ca0UiWUAcGHK_.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E5ca0UiWUAcGHK_.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 45/ 76 ./parser-output/media/1411625312178348035-KIVlRyw1HR_hLUaz.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1411625243140136962/pu/vid/640x360/KIVlRyw1HR_hLUaz.mp4?tag=12 because of exception: HTTPSConnectionPool(host='video.twimg.com', port=443): Read timed out. (read timeout=2)
+ 46/ 76 ./parser-output/media/1405091887170605058-E3_jc3QXMAIJl0q.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E3_jc3QXMAIJl0q.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 47/ 76 ./parser-output/media/1579801184080375808-FeyUzMtXgAExRKO.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 48/ 76 ./parser-output/media/1579799322899943425-FeyTCPvXEAARhF5.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeyTCPvXEAARhF5.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 49/ 76 ./parser-output/media/1400702605924474886-E3BLPY3XMAU7rLi.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E3BLPY3XMAU7rLi.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 50/ 76 ./parser-output/media/1398255991091826688-E2eZuUAWYAEo6hk.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2eZuUAWYAEo6hk.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 51/ 76 ./parser-output/media/1397545773835956225-E2UUeAXWYAQmiM1.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2UUeAXWYAQmiM1.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 52/ 76 ./parser-output/media/1396943459790041090-E2Lwo2cXEAAA_6Q.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2Lwo2cXEAAA_6Q.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 53/ 76 ./parser-output/media/1396943459790041090-E2Lwp-lXIAAX7im.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2Lwp-lXIAAX7im.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 54/ 76 ./parser-output/media/1396453378847383552-E2EywzVXsAA71md.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2EywzVXsAA71md.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 55/ 76 ./parser-output/media/1396388581955022850-E2D3qqBWUAAZl9s.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2D3qqBWUAAZl9s.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 56/ 76 ./parser-output/media/1393662490274373633-E1dIpMnWEAIpTtr.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E1dIpMnWEAIpTtr.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 57/ 76 ./parser-output/media/1390574240257216513-E0xP0lhXsAAyHsN.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E0xP0lhXsAAyHsN.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 58/ 76 ./parser-output/media/1390241088909230080-E0sg45gWQAAfpaS.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E0sg45gWQAAfpaS.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 59/ 76 ./parser-output/media/1578293153517703169-Fec5BySWQAAnXWZ.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/Fec5BySWQAAnXWZ.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 60/ 76 ./parser-output/media/1578071482399350784-FeZvpJsXoAIA4v8.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeZvpJsXoAIA4v8.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 61/ 76 ./parser-output/media/1577947224461508617-FeX-UQtXgAEZn94.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeX-UQtXgAEZn94.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 62/ 76 ./parser-output/media/1577947219843506176-FeX9-nAX0AA1clo.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeX9-nAX0AA1clo.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 63/ 76 ./parser-output/media/1577947213145178113-FeXx5YjWIAAvOER.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeXx5YjWIAAvOER.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 64/ 76 ./parser-output/media/1388787610185830406-E0X29OxXMAIlF6u.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 65/ 76 ./parser-output/media/1387662620220698624-E0H3yJ1WEAIceRQ.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E0H3yJ1WEAIceRQ.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 66/ 76 ./parser-output/media/1384172525232418830-EzWRdPGVgAUa_ZQ.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EzWRdPGVgAUa_ZQ.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 67/ 76 ./parser-output/media/1384098471322406912-EzVON5GUYAk2s-z.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EzVON5GUYAk2s-z.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 68/ 76 ./parser-output/media/1384075405884215299-EzU5HbBVUAEHE5-.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EzU5HbBVUAEHE5-.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 69/ 76 ./parser-output/media/1384075405884215299-EzU5HbDVUAA9H3q.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EzU5HbDVUAA9H3q.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 70/ 76 ./parser-output/media/1384075405884215299-EzU5HbQVUAA_3BJ.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EzU5HbQVUAA_3BJ.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 71/ 76 ./parser-output/media/1383084641867943938-EzG0JIDW8AUwIct.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 72/ 76 ./parser-output/media/1588313618474475520-PIfJaoaruPE-byIt.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 73/ 76 ./parser-output/media/1587896647849168896-uslkgEZLGQTRGTxk.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 74/ 76 ./parser-output/media/1587895983614361600-M5W6JzbWnCwG46aJ.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 75/ 76 ./parser-output/media/1546702271169417218-VPoRIb3rZRTVPbE3.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 76/ 76 ./parser-output/media/1587479461028630528-mx5vz4BabBubYSBG.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+
+16 of 76 tested media files are known to be the best-quality available.
+
+  1/ 60 ./parser-output/media/1590738339711266816-FhNwFisXEAIZKFB.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhNwFisXEAIZKFB.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  2/ 60 ./parser-output/media/1590716978775269376-FhNco1KXoAIMkmM.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhNco1KXoAIMkmM.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  3/ 60 ./parser-output/media/1590456335962968065-FhJvmyZWQAAWjxh.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhJvmyZWQAAWjxh.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  4/ 60 ./parser-output/media/1590435884322521088-FhJdAVkWAAAi6XM.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhJdAVkWAAAi6XM.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  5/ 60 ./parser-output/media/1590424387672756224-FhJSjGAXoAIe580.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhJSjGAXoAIe580.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  6/ 60 ./parser-output/media/1590418094320664576-FhJM01TXoAEpWq4.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhJM01TXoAEpWq4.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  7/ 60 ./parser-output/media/1590390479496978433-FhIzsLLWYAEsL_a.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhIzsLLWYAEsL_a.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  8/ 60 ./parser-output/media/1590082751092359168-FhEby2LX0AQdUJe.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhEby2LX0AQdUJe.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  9/ 60 ./parser-output/media/1590025261260877824-FhDniC2XgAMY3Ni.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhDniC2XgAMY3Ni.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 10/ 60 ./parser-output/media/1590025261260877824-FhDniUQX0AMQIMw.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhDniUQX0AMQIMw.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 11/ 60 ./parser-output/media/1590025261260877824-FhDninpWQAA-XUH.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhDninpWQAA-XUH.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 12/ 60 ./parser-output/media/1590025261260877824-FhDni5xXwAQEIcZ.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhDni5xXwAQEIcZ.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 13/ 60 ./parser-output/media/1470880576127193091-FGmeFUTWYAYUiIR.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FGmeFUTWYAYUiIR.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 14/ 60 ./parser-output/media/1469084752535773184-FGM8lgOXwAULeqh.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FGM8lgOXwAULeqh.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 15/ 60 ./parser-output/media/1466342023930294274-FFl-S3JXMAUzRfI.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 16/ 60 ./parser-output/media/1463203834780659717-FE5YG1mXIAYU_rF.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FE5YG1mXIAYU_rF.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 17/ 60 ./parser-output/media/1462362887972962308-FEtbH0SXsAI91w3.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FEtbH0SXsAI91w3.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 18/ 60 ./parser-output/media/1461245896524537863-FEdjZWcXIAAXQA5.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FEdjZWcXIAAXQA5.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 19/ 60 ./parser-output/media/1460626280077012993-FEUv3BnWYAkY1xL.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FEUv3BnWYAkY1xL.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 20/ 60 ./parser-output/media/1460355292571521028-FEQ5WdQXoAcGmLN.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FEQ5WdQXoAcGmLN.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 21/ 60 ./parser-output/media/1460161467920044042-FEOJHE1WUAEwdk2.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FEOJHE1WUAEwdk2.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 22/ 60 ./parser-output/media/1456330348896395266-FDXsrQZWQAkT79P.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FDXsrQZWQAkT79P.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 23/ 60 ./parser-output/media/1455622369536585730-FDNo0nHWQAA-dcm.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FDNo0nHWQAA-dcm.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 24/ 60 ./parser-output/media/1455568399376044041-FDM3uyEWEAczODx.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FDM3uyEWEAczODx.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 25/ 60 ./parser-output/media/1450737951294513153-FCIOeVtXsAA8PpK.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FCIOeVtXsAA8PpK.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 26/ 60 ./parser-output/media/1450048743428984838-FB-birfWEAIKA8X.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FB-birfWEAIKA8X.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 27/ 60 ./parser-output/media/1448000593080037378-FBgw1EjWEAgv_fK.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FBgw1EjWEAgv_fK.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 28/ 60 ./parser-output/media/1446149244721811461-FBHAxhkX0Ac4udo.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FBHAxhkX0Ac4udo.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 29/ 60 ./parser-output/media/1435905645899829253-E-1cYtKX0AglUTn.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E-1cYtKX0AglUTn.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 30/ 60 ./parser-output/media/1435528316904255490-E-wFHOSWYAcRTd2.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E-wFHOSWYAcRTd2.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 31/ 60 ./parser-output/media/1434152207864246272-E-chuLjX0AgdcmT.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E-chuLjX0AgdcmT.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 32/ 60 ./parser-output/media/1581622812027936768-FfMNjtzXgAI8X4T.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FfMNjtzXgAI8X4T.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 33/ 60 ./parser-output/media/1581569286228692992-FfLcyO6X0AA0T5T.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FfLcyO6X0AA0T5T.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 34/ 60 ./parser-output/media/1580594088361230336-Fe9l7F_XkAENZyG.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/Fe9l7F_XkAENZyG.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 35/ 60 ./parser-output/media/1412108010168717314-E5jQDATX0AQIu85.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E5jQDATX0AQIu85.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 36/ 60 ./parser-output/media/1411626502324637696-E5ca0UiWUAcGHK_.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E5ca0UiWUAcGHK_.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 37/ 60 ./parser-output/media/1411625312178348035-KIVlRyw1HR_hLUaz.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 38/ 60 ./parser-output/media/1405091887170605058-E3_jc3QXMAIJl0q.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E3_jc3QXMAIJl0q.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 39/ 60 ./parser-output/media/1579799322899943425-FeyTCPvXEAARhF5.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeyTCPvXEAARhF5.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 40/ 60 ./parser-output/media/1400702605924474886-E3BLPY3XMAU7rLi.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E3BLPY3XMAU7rLi.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 41/ 60 ./parser-output/media/1398255991091826688-E2eZuUAWYAEo6hk.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2eZuUAWYAEo6hk.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 42/ 60 ./parser-output/media/1397545773835956225-E2UUeAXWYAQmiM1.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2UUeAXWYAQmiM1.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 43/ 60 ./parser-output/media/1396943459790041090-E2Lwo2cXEAAA_6Q.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2Lwo2cXEAAA_6Q.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 44/ 60 ./parser-output/media/1396943459790041090-E2Lwp-lXIAAX7im.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2Lwp-lXIAAX7im.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 45/ 60 ./parser-output/media/1396453378847383552-E2EywzVXsAA71md.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2EywzVXsAA71md.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 46/ 60 ./parser-output/media/1396388581955022850-E2D3qqBWUAAZl9s.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2D3qqBWUAAZl9s.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 47/ 60 ./parser-output/media/1393662490274373633-E1dIpMnWEAIpTtr.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E1dIpMnWEAIpTtr.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 48/ 60 ./parser-output/media/1390574240257216513-E0xP0lhXsAAyHsN.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E0xP0lhXsAAyHsN.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 49/ 60 ./parser-output/media/1390241088909230080-E0sg45gWQAAfpaS.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E0sg45gWQAAfpaS.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 50/ 60 ./parser-output/media/1578293153517703169-Fec5BySWQAAnXWZ.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/Fec5BySWQAAnXWZ.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 51/ 60 ./parser-output/media/1578071482399350784-FeZvpJsXoAIA4v8.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeZvpJsXoAIA4v8.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 52/ 60 ./parser-output/media/1577947224461508617-FeX-UQtXgAEZn94.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeX-UQtXgAEZn94.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 53/ 60 ./parser-output/media/1577947219843506176-FeX9-nAX0AA1clo.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeX9-nAX0AA1clo.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 54/ 60 ./parser-output/media/1577947213145178113-FeXx5YjWIAAvOER.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeXx5YjWIAAvOER.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 55/ 60 ./parser-output/media/1387662620220698624-E0H3yJ1WEAIceRQ.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E0H3yJ1WEAIceRQ.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 56/ 60 ./parser-output/media/1384172525232418830-EzWRdPGVgAUa_ZQ.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EzWRdPGVgAUa_ZQ.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 57/ 60 ./parser-output/media/1384098471322406912-EzVON5GUYAk2s-z.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EzVON5GUYAk2s-z.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 58/ 60 ./parser-output/media/1384075405884215299-EzU5HbBVUAEHE5-.jpg: SUCCESS. New version is actually  18% smaller in bytes but  14% larger in pixels. 0.1MB downloaded
+ 59/ 60 ./parser-output/media/1384075405884215299-EzU5HbDVUAA9H3q.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EzU5HbDVUAA9H3q.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 60/ 60 ./parser-output/media/1384075405884215299-EzU5HbQVUAA_3BJ.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EzU5HbQVUAA_3BJ.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+
+3 of 60 tested media files are known to be the best-quality available.
+
+  1/ 57 ./parser-output/media/1590738339711266816-FhNwFisXEAIZKFB.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhNwFisXEAIZKFB.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  2/ 57 ./parser-output/media/1590716978775269376-FhNco1KXoAIMkmM.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhNco1KXoAIMkmM.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  3/ 57 ./parser-output/media/1590456335962968065-FhJvmyZWQAAWjxh.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhJvmyZWQAAWjxh.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  4/ 57 ./parser-output/media/1590435884322521088-FhJdAVkWAAAi6XM.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhJdAVkWAAAi6XM.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  5/ 57 ./parser-output/media/1590424387672756224-FhJSjGAXoAIe580.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhJSjGAXoAIe580.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  6/ 57 ./parser-output/media/1590418094320664576-FhJM01TXoAEpWq4.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhJM01TXoAEpWq4.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  7/ 57 ./parser-output/media/1590390479496978433-FhIzsLLWYAEsL_a.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhIzsLLWYAEsL_a.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  8/ 57 ./parser-output/media/1590082751092359168-FhEby2LX0AQdUJe.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhEby2LX0AQdUJe.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  9/ 57 ./parser-output/media/1590025261260877824-FhDniC2XgAMY3Ni.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhDniC2XgAMY3Ni.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 10/ 57 ./parser-output/media/1590025261260877824-FhDniUQX0AMQIMw.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhDniUQX0AMQIMw.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 11/ 57 ./parser-output/media/1590025261260877824-FhDninpWQAA-XUH.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhDninpWQAA-XUH.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 12/ 57 ./parser-output/media/1590025261260877824-FhDni5xXwAQEIcZ.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhDni5xXwAQEIcZ.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 13/ 57 ./parser-output/media/1470880576127193091-FGmeFUTWYAYUiIR.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FGmeFUTWYAYUiIR.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 14/ 57 ./parser-output/media/1469084752535773184-FGM8lgOXwAULeqh.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FGM8lgOXwAULeqh.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 15/ 57 ./parser-output/media/1463203834780659717-FE5YG1mXIAYU_rF.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 16/ 57 ./parser-output/media/1462362887972962308-FEtbH0SXsAI91w3.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 17/ 57 ./parser-output/media/1461245896524537863-FEdjZWcXIAAXQA5.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 18/ 57 ./parser-output/media/1460626280077012993-FEUv3BnWYAkY1xL.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 19/ 57 ./parser-output/media/1460355292571521028-FEQ5WdQXoAcGmLN.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 20/ 57 ./parser-output/media/1460161467920044042-FEOJHE1WUAEwdk2.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FEOJHE1WUAEwdk2.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 21/ 57 ./parser-output/media/1456330348896395266-FDXsrQZWQAkT79P.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FDXsrQZWQAkT79P.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 22/ 57 ./parser-output/media/1455622369536585730-FDNo0nHWQAA-dcm.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FDNo0nHWQAA-dcm.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 23/ 57 ./parser-output/media/1455568399376044041-FDM3uyEWEAczODx.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FDM3uyEWEAczODx.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 24/ 57 ./parser-output/media/1450737951294513153-FCIOeVtXsAA8PpK.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FCIOeVtXsAA8PpK.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 25/ 57 ./parser-output/media/1450048743428984838-FB-birfWEAIKA8X.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FB-birfWEAIKA8X.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 26/ 57 ./parser-output/media/1448000593080037378-FBgw1EjWEAgv_fK.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FBgw1EjWEAgv_fK.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 27/ 57 ./parser-output/media/1446149244721811461-FBHAxhkX0Ac4udo.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FBHAxhkX0Ac4udo.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 28/ 57 ./parser-output/media/1435905645899829253-E-1cYtKX0AglUTn.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E-1cYtKX0AglUTn.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 29/ 57 ./parser-output/media/1435528316904255490-E-wFHOSWYAcRTd2.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E-wFHOSWYAcRTd2.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 30/ 57 ./parser-output/media/1434152207864246272-E-chuLjX0AgdcmT.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E-chuLjX0AgdcmT.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 31/ 57 ./parser-output/media/1581622812027936768-FfMNjtzXgAI8X4T.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FfMNjtzXgAI8X4T.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 32/ 57 ./parser-output/media/1581569286228692992-FfLcyO6X0AA0T5T.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FfLcyO6X0AA0T5T.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 33/ 57 ./parser-output/media/1580594088361230336-Fe9l7F_XkAENZyG.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/Fe9l7F_XkAENZyG.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 34/ 57 ./parser-output/media/1412108010168717314-E5jQDATX0AQIu85.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E5jQDATX0AQIu85.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 35/ 57 ./parser-output/media/1411626502324637696-E5ca0UiWUAcGHK_.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E5ca0UiWUAcGHK_.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 36/ 57 ./parser-output/media/1405091887170605058-E3_jc3QXMAIJl0q.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E3_jc3QXMAIJl0q.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 37/ 57 ./parser-output/media/1579799322899943425-FeyTCPvXEAARhF5.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeyTCPvXEAARhF5.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 38/ 57 ./parser-output/media/1400702605924474886-E3BLPY3XMAU7rLi.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E3BLPY3XMAU7rLi.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 39/ 57 ./parser-output/media/1398255991091826688-E2eZuUAWYAEo6hk.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2eZuUAWYAEo6hk.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 40/ 57 ./parser-output/media/1397545773835956225-E2UUeAXWYAQmiM1.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2UUeAXWYAQmiM1.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 41/ 57 ./parser-output/media/1396943459790041090-E2Lwo2cXEAAA_6Q.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2Lwo2cXEAAA_6Q.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 42/ 57 ./parser-output/media/1396943459790041090-E2Lwp-lXIAAX7im.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2Lwp-lXIAAX7im.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 43/ 57 ./parser-output/media/1396453378847383552-E2EywzVXsAA71md.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2EywzVXsAA71md.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 44/ 57 ./parser-output/media/1396388581955022850-E2D3qqBWUAAZl9s.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2D3qqBWUAAZl9s.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 45/ 57 ./parser-output/media/1393662490274373633-E1dIpMnWEAIpTtr.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E1dIpMnWEAIpTtr.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 46/ 57 ./parser-output/media/1390574240257216513-E0xP0lhXsAAyHsN.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E0xP0lhXsAAyHsN.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 47/ 57 ./parser-output/media/1390241088909230080-E0sg45gWQAAfpaS.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E0sg45gWQAAfpaS.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 48/ 57 ./parser-output/media/1578293153517703169-Fec5BySWQAAnXWZ.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/Fec5BySWQAAnXWZ.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 49/ 57 ./parser-output/media/1578071482399350784-FeZvpJsXoAIA4v8.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeZvpJsXoAIA4v8.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 50/ 57 ./parser-output/media/1577947224461508617-FeX-UQtXgAEZn94.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeX-UQtXgAEZn94.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 51/ 57 ./parser-output/media/1577947219843506176-FeX9-nAX0AA1clo.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeX9-nAX0AA1clo.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 52/ 57 ./parser-output/media/1577947213145178113-FeXx5YjWIAAvOER.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeXx5YjWIAAvOER.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 53/ 57 ./parser-output/media/1387662620220698624-E0H3yJ1WEAIceRQ.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E0H3yJ1WEAIceRQ.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 54/ 57 ./parser-output/media/1384172525232418830-EzWRdPGVgAUa_ZQ.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EzWRdPGVgAUa_ZQ.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 55/ 57 ./parser-output/media/1384098471322406912-EzVON5GUYAk2s-z.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EzVON5GUYAk2s-z.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 56/ 57 ./parser-output/media/1384075405884215299-EzU5HbDVUAA9H3q.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EzU5HbDVUAA9H3q.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 57/ 57 ./parser-output/media/1384075405884215299-EzU5HbQVUAA_3BJ.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EzU5HbQVUAA_3BJ.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+
+5 of 57 tested media files are known to be the best-quality available.
+
+  1/ 52 ./parser-output/media/1590738339711266816-FhNwFisXEAIZKFB.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhNwFisXEAIZKFB.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  2/ 52 ./parser-output/media/1590716978775269376-FhNco1KXoAIMkmM.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhNco1KXoAIMkmM.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  3/ 52 ./parser-output/media/1590456335962968065-FhJvmyZWQAAWjxh.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhJvmyZWQAAWjxh.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  4/ 52 ./parser-output/media/1590435884322521088-FhJdAVkWAAAi6XM.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhJdAVkWAAAi6XM.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  5/ 52 ./parser-output/media/1590424387672756224-FhJSjGAXoAIe580.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhJSjGAXoAIe580.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  6/ 52 ./parser-output/media/1590418094320664576-FhJM01TXoAEpWq4.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhJM01TXoAEpWq4.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  7/ 52 ./parser-output/media/1590390479496978433-FhIzsLLWYAEsL_a.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhIzsLLWYAEsL_a.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  8/ 52 ./parser-output/media/1590082751092359168-FhEby2LX0AQdUJe.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhEby2LX0AQdUJe.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  9/ 52 ./parser-output/media/1590025261260877824-FhDniC2XgAMY3Ni.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhDniC2XgAMY3Ni.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 10/ 52 ./parser-output/media/1590025261260877824-FhDniUQX0AMQIMw.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhDniUQX0AMQIMw.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 11/ 52 ./parser-output/media/1590025261260877824-FhDninpWQAA-XUH.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhDninpWQAA-XUH.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 12/ 52 ./parser-output/media/1590025261260877824-FhDni5xXwAQEIcZ.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FhDni5xXwAQEIcZ.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 13/ 52 ./parser-output/media/1470880576127193091-FGmeFUTWYAYUiIR.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FGmeFUTWYAYUiIR.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 14/ 52 ./parser-output/media/1469084752535773184-FGM8lgOXwAULeqh.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FGM8lgOXwAULeqh.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 15/ 52 ./parser-output/media/1460161467920044042-FEOJHE1WUAEwdk2.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FEOJHE1WUAEwdk2.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 16/ 52 ./parser-output/media/1456330348896395266-FDXsrQZWQAkT79P.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FDXsrQZWQAkT79P.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 17/ 52 ./parser-output/media/1455622369536585730-FDNo0nHWQAA-dcm.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FDNo0nHWQAA-dcm.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 18/ 52 ./parser-output/media/1455568399376044041-FDM3uyEWEAczODx.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FDM3uyEWEAczODx.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 19/ 52 ./parser-output/media/1450737951294513153-FCIOeVtXsAA8PpK.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FCIOeVtXsAA8PpK.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 20/ 52 ./parser-output/media/1450048743428984838-FB-birfWEAIKA8X.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FB-birfWEAIKA8X.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 21/ 52 ./parser-output/media/1448000593080037378-FBgw1EjWEAgv_fK.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FBgw1EjWEAgv_fK.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 22/ 52 ./parser-output/media/1446149244721811461-FBHAxhkX0Ac4udo.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FBHAxhkX0Ac4udo.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 23/ 52 ./parser-output/media/1435905645899829253-E-1cYtKX0AglUTn.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E-1cYtKX0AglUTn.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 24/ 52 ./parser-output/media/1435528316904255490-E-wFHOSWYAcRTd2.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E-wFHOSWYAcRTd2.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 25/ 52 ./parser-output/media/1434152207864246272-E-chuLjX0AgdcmT.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E-chuLjX0AgdcmT.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 26/ 52 ./parser-output/media/1581622812027936768-FfMNjtzXgAI8X4T.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FfMNjtzXgAI8X4T.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 27/ 52 ./parser-output/media/1581569286228692992-FfLcyO6X0AA0T5T.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FfLcyO6X0AA0T5T.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 28/ 52 ./parser-output/media/1580594088361230336-Fe9l7F_XkAENZyG.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/Fe9l7F_XkAENZyG.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 29/ 52 ./parser-output/media/1412108010168717314-E5jQDATX0AQIu85.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E5jQDATX0AQIu85.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 30/ 52 ./parser-output/media/1411626502324637696-E5ca0UiWUAcGHK_.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E5ca0UiWUAcGHK_.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 31/ 52 ./parser-output/media/1405091887170605058-E3_jc3QXMAIJl0q.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E3_jc3QXMAIJl0q.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 32/ 52 ./parser-output/media/1579799322899943425-FeyTCPvXEAARhF5.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeyTCPvXEAARhF5.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 33/ 52 ./parser-output/media/1400702605924474886-E3BLPY3XMAU7rLi.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E3BLPY3XMAU7rLi.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 34/ 52 ./parser-output/media/1398255991091826688-E2eZuUAWYAEo6hk.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2eZuUAWYAEo6hk.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 35/ 52 ./parser-output/media/1397545773835956225-E2UUeAXWYAQmiM1.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2UUeAXWYAQmiM1.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 36/ 52 ./parser-output/media/1396943459790041090-E2Lwo2cXEAAA_6Q.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2Lwo2cXEAAA_6Q.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 37/ 52 ./parser-output/media/1396943459790041090-E2Lwp-lXIAAX7im.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2Lwp-lXIAAX7im.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 38/ 52 ./parser-output/media/1396453378847383552-E2EywzVXsAA71md.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2EywzVXsAA71md.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 39/ 52 ./parser-output/media/1396388581955022850-E2D3qqBWUAAZl9s.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E2D3qqBWUAAZl9s.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 40/ 52 ./parser-output/media/1393662490274373633-E1dIpMnWEAIpTtr.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E1dIpMnWEAIpTtr.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 41/ 52 ./parser-output/media/1390574240257216513-E0xP0lhXsAAyHsN.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E0xP0lhXsAAyHsN.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 42/ 52 ./parser-output/media/1390241088909230080-E0sg45gWQAAfpaS.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E0sg45gWQAAfpaS.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 43/ 52 ./parser-output/media/1578293153517703169-Fec5BySWQAAnXWZ.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/Fec5BySWQAAnXWZ.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 44/ 52 ./parser-output/media/1578071482399350784-FeZvpJsXoAIA4v8.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeZvpJsXoAIA4v8.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 45/ 52 ./parser-output/media/1577947224461508617-FeX-UQtXgAEZn94.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeX-UQtXgAEZn94.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 46/ 52 ./parser-output/media/1577947219843506176-FeX9-nAX0AA1clo.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeX9-nAX0AA1clo.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 47/ 52 ./parser-output/media/1577947213145178113-FeXx5YjWIAAvOER.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FeXx5YjWIAAvOER.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 48/ 52 ./parser-output/media/1387662620220698624-E0H3yJ1WEAIceRQ.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/E0H3yJ1WEAIceRQ.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 49/ 52 ./parser-output/media/1384172525232418830-EzWRdPGVgAUa_ZQ.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EzWRdPGVgAUa_ZQ.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 50/ 52 ./parser-output/media/1384098471322406912-EzVON5GUYAk2s-z.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EzVON5GUYAk2s-z.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 51/ 52 ./parser-output/media/1384075405884215299-EzU5HbDVUAA9H3q.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EzU5HbDVUAA9H3q.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 52/ 52 ./parser-output/media/1384075405884215299-EzU5HbQVUAA_3BJ.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EzU5HbQVUAA_3BJ.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+
+0 of 52 tested media files are known to be the best-quality available.
+
+Total downloaded: 72.3MB = 0.07GB
+Time taken: 1498s
